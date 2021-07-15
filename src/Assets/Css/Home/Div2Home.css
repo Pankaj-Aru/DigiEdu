@@ -1,0 +1,28 @@
+.Div2Home{
+    background-color:var(--light);
+    padding-top:2rem;
+}
+
+.Div2Home h3{
+    font-family: "medium";
+    color: orangered;
+}
+
+.Div2Home .About{
+    margin: auto auto;
+padding: 7rem 0;
+}
+
+.Div2Home h1{
+    font-family: "semiBold";
+    font-size: 4rem;
+    margin:1rem 0;
+    word-spacing: 1rem;
+}
+
+.Div2Home p{
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-family: "medium";
+    margin:2rem 0.5rem;
+}

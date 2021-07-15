@@ -1,0 +1,113 @@
+.Footer {
+  background-color: rgb(7, 1, 17);
+  position: relative;
+}
+
+.Footer > div {
+  flex-wrap: wrap;
+  margin: auto;
+}
+.Footer .copyright {
+  height: 4rem;
+  width: 80vw;
+  font-size: 1rem;
+  word-spacing: 0.2rem;
+  font-family: "semiBold";
+}
+
+.Footer .copyright > div {
+  margin-bottom: 1rem;
+}
+.Footer .copyright > div h5 {
+  margin: 0 2rem;
+  color: rgba(99, 97, 97, 0.918);
+}
+
+.Footer .copyright > div a {
+  color: orangered;
+  text-decoration: none;
+}
+
+.Footer > div > div h1,
+.Footer > div > div h3 {
+  margin-top: 1rem;
+}
+
+.Footer > div > div {
+  height: fit-content;
+  width: 40vw;
+  font-family: "bold";
+  font-size: 1.1rem;
+  padding:2vw;
+  color: white;
+  margin:0;
+}
+
+.Footer > div .logo > div {
+  width: 2rem;
+  height: 2rem;
+object-fit: cover;
+  background-color: rgb(255, 255, 255);
+  margin: 2rem 1rem 2rem 0rem;
+  border-radius: 4rem;
+  transition: 0.5s;
+}
+.Footer > div .logo > div:hover{
+  transform: scale(1.2);
+  
+}
+
+
+.Footer > div .logo > div img{
+    width: 2rem;
+    height: 2rem;}
+
+.Footer > div .datalink,
+.Footer > div .data {
+  font-family: "small";
+  margin-top: 1rem;
+  color: rgba(99, 97, 97, 0.918);
+
+  line-height: 1.5rem;
+}
+.Footer > div .datalink ul{
+  margin-bottom: 2rem;
+  margin:1rem;
+  width: fit-content;
+cursor: pointer;
+  color: rgba(99, 97, 97, 0.918);
+
+}
+
+.Footer > div .datalink ul *{
+  text-decoration: none;
+  color: rgba(99, 97, 97, 0.918);
+  
+}
+
+.Footer .datalink ul *:hover{
+  color: orangered;
+}
+.Footer > div .adress > div * {
+  font-family: "regularNum";
+  display: inline-block;
+  line-height: 1.5rem;
+}
+
+.Footer > div .adress > div h4 {
+  font-family: "semiBold";
+  margin-right: 0.5rem;
+}
+
+.Footer .datalink ul:hover,
+.Footer .copyright > div h5:hover {
+  color: orangered;
+}
+
+.Footer hr {
+  position: absolute;
+  bottom: 5rem;
+  border: 1px solid rgb(48, 46, 46);
+
+  width: 100%;
+}

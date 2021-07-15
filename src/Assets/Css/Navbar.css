@@ -1,0 +1,48 @@
+.Navbar{
+    position: relative;
+     z-index: 3;
+   display: block;
+}
+
+.navbar{
+     position: absolute;
+    right:0rem;
+    top:auto;
+}
+
+.navbar img{
+    vertical-align: middle;
+}
+.Navbar>img{
+    align-items: center;
+    padding:auto auto;
+    position: absolute;
+    left:0rem;
+    top:auto;
+
+}
+.navbar a{
+    margin:0 1rem;
+    text-decoration: none;
+    color:var(--pure);
+    font-family: "bold";
+    font-size: 1.5rem;
+}
+
+.navbar a:hover{
+    color: orangered;
+}
+
+
+.navbar .active{
+color:orangered;
+}
+
+
+@media (max-width: 992px) {
+    
+    .Navbar{
+        
+       display: none;
+    }
+  }

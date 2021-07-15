@@ -1,0 +1,10 @@
+.Div1Common{
+    height:25rem;
+    width:100%;
+    overflow: hidden;
+}
+.Div1Common img{
+    width:100%;
+    filter: brightness(0.2);
+
+}

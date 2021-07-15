@@ -1,0 +1,26 @@
+.Div5About{
+    background-color: var(--pure);
+    padding:6rem 0;
+}
+
+.Div5About>div .cards{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 3rem;
+}
+
+.Div5About>div .singleCard{
+    height:20rem;
+    width:15rem;
+    margin:1rem;
+    text-align: center;
+    font-family: "regular";
+}
+
+.Div5About>div .singleCard img{
+    margin-bottom: 1rem;
+    object-fit: cover;
+    height:15rem;
+    width:15rem;
+    border-radius: 7.5rem;
+}

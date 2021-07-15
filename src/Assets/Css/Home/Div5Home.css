@@ -1,0 +1,77 @@
+.Div5Home {
+  background-color: var(--pure);
+  width: 100%;
+}
+
+.Div5Home .cards {
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.Div5Home .singleCard {
+  margin: 5rem 1rem;
+  height: 20rem;
+  width: 15rem;
+  box-shadow: 0px 10px 20px rgb(0, 0, 0);
+  border-radius: 1rem;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2rem;
+  text-align: center;
+}
+.Div5Home .singleCard h4 {
+  font-size: 1.3rem;
+  font-family: "medium";
+  margin: 1rem 0;
+  margin: 1rem;
+}
+.Div5Home .singleCard img {
+  margin: 2rem;
+  height: 6rem;
+  width: 6rem;
+
+  box-shadow: 0px 5px 10px rgb(0, 0, 0);
+
+  border-radius: 3rem;
+}
+
+/* 
+@media (max-width: 1200px) {
+   
+    .Div5Home .singleCard{
+        margin:0.5rem;
+        height:20rem;
+        width:10rem;
+       
+    }
+
+  }
+
+  @media (max-width: 992px) {
+    .Div5Home{
+        margin:3rem auto;
+            height:40rem;}
+
+            .Div5Home .singleCard{
+               
+                font-size:1.5rem;
+                
+            }
+  }
+  
+
+  @media (max-width: 768px) {
+   
+    
+
+    .Div5Home .singleCard img{
+        margin:1rem ;
+    height: 4rem;
+    width:4rem;}
+    
+    .Div5Home .singleCard{
+        margin:2rem;
+        height:15rem;
+        width:10rem;
+        font-size:1.5rem;
+        
+    }}  */

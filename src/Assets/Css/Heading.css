@@ -1,0 +1,22 @@
+
+.headiing h2{
+    font-family: "medium";
+    color: orangered;
+    display:flex ;
+    align-items: center;
+}
+
+.headiing hr{
+    width:10rem;
+    height:0.2rem;
+    border:1px solid orangered;
+    background-color: orangered;
+    margin-right :0.5rem;
+}
+
+.headiing h1{
+    font-family: "semiBold";
+    font-size: 4rem;
+    margin:0;
+    word-spacing: 1rem;
+}

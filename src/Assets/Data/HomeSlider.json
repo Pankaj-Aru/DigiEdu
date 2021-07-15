@@ -1,0 +1,243 @@
+{
+  "user": [
+    {
+      "id": 0,
+      "online": 41,
+      "Course": "Business",
+      "lessons": 243,
+      "price": "$283"
+
+    },
+    {
+      "id": 1,
+      "online": 78,
+      "Course": "Creative Art",
+      "lessons": 42,
+      "price": "$145"
+    },
+    {
+      "id": 2,
+      "online": 34,
+      "Course": "Development",
+      "lessons": 145,
+      "price": "$85"
+    },
+    {
+      "id": 3,
+      "online": 75,
+      "Course": "Painting",
+      "lessons": 95,
+      "price": "$357"
+    },
+    {
+      "id": 4,
+      "online": "213",
+      "Course": "Sketching",
+      "lessons": 74,
+      "price": "$52"
+    },
+    {
+      "id": 5,
+      "online": 79,
+      "Course": "Photography",
+      "lessons": 46,
+      "price": "$123"
+    },
+    {
+      "id": 6,
+      "online": 57,
+      "Course": "Business",
+      "lessons": 243,
+      "price": "$283"
+    },
+    {
+      "id": 7,
+      "online": 89,
+      "Course": "Data Science",
+      "lessons": 241,
+      "price": "$124"
+    },
+    {
+      "id": 8,
+      "online": 14,
+      "Course": "Python",
+      "lessons": 150,
+      "price": "$200"
+    }
+  ],
+  "followers": [
+    {
+      "id": 0,
+      "count": "24,568",
+      "parameter": "Successfully Trained",
+      "path":"./images/Followers/img-1.svg"
+    },
+    {
+      "id": 1,
+      "count": "4,152",
+      "parameter": "We Proudly Received",
+      "path":"./images/Followers/img-2.svg"
+    },
+    {
+      "id": 2,
+      "count": "47,152",
+      "parameter": "Getting Featured On",
+      "path":"./images/Followers/img-3.svg"
+    },
+    {
+      "id": 3,
+      "count": "7,458",
+      "parameter": "Firmly Eastablished",
+      "path":"./images/Followers/img-0.svg"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 0,
+      "topic": "Education Maecenas posuere akoidj ",
+      "name": "Alimaya Siyamo",
+      "time": "25 Sept,2021"
+    },
+    {
+      "id": 0,
+      "topic": "Study ornareSuspendisse potenti.",
+      "name": "Siyamo Antiliya",
+      "time": "18 Oct,2020"
+    },
+    {
+      "id": 0,
+      "topic": "Books aecenas ornare disse potenti.",
+      "name": "Genia Samplino",
+      "time": "03 Jan,2019"
+    }
+  ],
+
+  
+  "team": [
+    {
+      "id": 0,
+      "name": "Alimaya Siyamo",
+      "prof": "Instructor"
+    },
+    {
+      "id": 1,
+      "name": "Siyamo Antiliya",
+      "prof": "Instructor"
+    },
+    {
+      "id": 2,
+      "name": "Genia Samplino",
+      "prof": "Instructor"
+    },
+    {
+      "id": 3,
+      "name": "Alimaya Siyamo",
+      "prof": "Instructor"
+    },
+    {
+      "id": 4,
+      "name": "Siyamo Antiliya",
+      "prof": "Instructor"
+    },
+    {
+      "id": 5,
+      "name": "Genia Samplino",
+      "prof": "Instructor"
+    },
+    {
+      "id": 6,
+      "name": "Alimaya Siyamo",
+      "prof": "Instructor"
+    },
+    {
+      "id": 7,
+      "name": "Siyamo Antiliya",
+      "prof": "Instructor"
+    },
+    {
+      "id": 8,
+      "name": "Genia Samplino",
+      "prof": "Instructor"
+    }
+  ],
+
+
+
+
+
+
+
+  "courses": [
+    {
+      "id": 0,
+      "student": 41,
+      "Course": "Allow your students to pay the way they want",
+      "lessons": 243,
+      "price": "$283"
+    },
+    {
+      "id": 1,
+      "student": 78,
+      "Course": "Create custom branded pages within minutes",
+      "lessons": 42,
+      "price": "$145"
+    },
+    {
+      "id": 2,
+      "student": 34,
+      "Course": "Stay on top of payments received and courses sold",
+      "lessons": 145,
+      "price": "$85"
+    },
+    {
+      "id": 3,
+      "student": 75,
+      "Course": "Give your students the option to pay in EMIs",
+      "lessons": 95,
+      "price": "$357"
+    },
+    {
+      "id": 4,
+      "student": "213",
+      "Course": " Powerful mental tools for  tough subjects",
+      "lessons": 74,
+      "price": "$52"
+    },
+    {
+      "id": 5,
+      "student": 79,
+      "Course": "Introduction to Computer Science Using Python ",
+      "lessons": 46,
+      "price": "$123"
+    },
+    {
+      "id": 6,
+      "student": 57,
+      "Course": "Create custom branded pages within minutes",
+      "lessons": 243,
+      "price": "$283"
+    },
+    {
+      "id": 7,
+      "student": 89,
+      "Course": "Powerful mental tools for tough subjects",
+      "lessons": 241,
+      "price": "$124"
+    },
+    {
+      "id": 8,
+      "student": 14,
+      "Course": "Powerful mental tools for master tough subjects",
+      "lessons": 150,
+      "price": "$200"
+    }
+  ]
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,13 @@
+.Div1About{
+    width:100%;
+    height:auto;
+ background-color: var(--light);
+
+}
+
+.Div1About Div>img{
+    margin:2rem auto;
+    height:20rem;
+    width:40rem;
+    border-radius: 0.3rem;
+}

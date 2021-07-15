@@ -1,0 +1,30 @@
+.Div2About{
+    width:100%;
+height:auto;
+    padding:4rem 0;
+    background-color: var(--pure);
+}
+
+
+.Div2About > Div{
+    font-family:"regular" ;
+    font-size: 1rem;
+    
+}
+
+.Div2About > Div .vis-mis>div{
+    width:40rem;
+    background-color: var(--light);
+    padding:1rem;
+    margin:1rem;
+    border-radius: 0.5rem;
+    
+    
+}
+.Div2About > Div p{
+    color: rgb(73, 75, 75);
+
+    line-height: 1.5rem;
+    margin:2rem 0;
+
+}

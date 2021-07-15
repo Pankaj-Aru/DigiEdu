@@ -1,0 +1,96 @@
+.Div3Home {
+  background-color: var(--pure);
+}
+
+.Div3Home h3 {
+  font-family: "medium";
+  color: orangered;
+}
+
+.Div3Home .About {
+  padding: 4rem 0;
+}
+.Div3Home .button {
+  margin-top:2rem;
+}
+
+.Div3Home h1 {
+  font-family: "semiBold";
+  font-size: 5rem;
+  margin: 1rem 0;
+  word-spacing: 1rem;
+}
+
+.Div3Home .cards {
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.Div3Home .cards .singleCards {
+  border-radius: 1.5rem;
+  margin: 2rem 1rem;
+  width: 17rem;
+  height: 17rem;
+  position: relative;
+  transition: 0.0.5s;
+  filter: drop-shadow(1rem 2rem 1rem black);
+}
+.Div3Home .cards .singleCards > div:hover {
+  transform: scale(1.1);
+}
+
+.Div3Home .cards .singleCards > img {
+  border-radius: 1.5rem;
+  width: 17rem;
+  height: 17rem;
+  object-fit: cover;
+  filter: brightness(0.5);
+  transition: 0.5s;
+}
+.Div3Home .cards .singleCards:hover >img{
+
+  transform: scale(1.1);
+  filter: brightness(0.1);
+}
+.Div3Home .cards .singleCards:hover div{
+  color: white;
+  transform: scale(1.1);
+}
+.Div3Home .cards .singleCards > div {
+  position: absolute;
+  left: 2rem;
+  bottom: 2rem;
+  transition: 0.5s;
+  font-family: "regularNum";
+  
+  
+}
+
+.Div3Home .cards .singleCards > div > div {
+  align-items: center;
+  transition: 0.5s;
+
+}
+.Div3Home .cards .singleCards > div > div img {
+  object-fit: cover;
+  width: 2.5rem;
+  height: 2.5rem;
+  border: 1.5px solid rgb(255, 17, 0);
+  border-radius: 2rem;
+}
+
+.Div3Home .cards .singleCards h5 {
+  color: rgb(240, 233, 233);
+}
+
+.Div3Home .cards .singleCards > div > div * {
+  margin: 0.5rem 0.5rem 0 0;
+}
+
+.Div3Home .cards .singleCards h2 {
+  font-family: "bold";
+  color: rgb(240, 233, 233);
+  margin: 0.3rem 0;
+}
+
+ 

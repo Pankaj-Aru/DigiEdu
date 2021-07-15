@@ -1,0 +1,63 @@
+.Div7Home {
+  background-color: var(--pure);
+}
+
+.Div7Home > div {
+  padding: 4rem 0;
+}
+
+.Div7Home > div .cards {
+  flex-wrap: wrap;
+}
+.Div7Home .specialCards {
+  height: 20rem;
+  width: 17rem;
+  margin: 2rem;
+  position: relative;
+}
+
+.Div7Home .specialCards > img {
+  object-fit: fill;
+  height: 20rem;
+  width: 17rem;
+  border-radius: 1rem;
+}
+
+.Div7Home .specialCards > div {
+  font-family: "medium";
+  background-color:var(--light);
+  position: absolute;
+  bottom: 0rem;
+  left: 0;
+  border-radius: 0rem 0rem 1rem 1rem;
+  padding: 1rem 0 0 0.5rem;
+}
+
+.Div7Home .specialCards > div img {
+  height: 2rem;
+  width: 2rem;
+}
+
+.Div7Home .specialCards > div > div {
+  padding: 1rem 0.5rem 1rem 0;
+
+  font-family: "medium";
+  font-size: 1.3rem;
+}
+
+.Div7Home .specialCards > div h4 {
+  margin: 0.2rem 1rem 1rem 0;
+}
+
+.Div7Home .specialCards > div > div h6 {
+  font-family: "regularNum";
+  margin: 0.2rem 0;
+}
+
+.Div7Home .specialCards > div > div img {
+  margin: 0 0.7rem 0 0;
+  height: 2.5rem;
+  width: 2.5rem;
+  border-radius: 1.5rem;
+  border: 1px solid orangered;
+}

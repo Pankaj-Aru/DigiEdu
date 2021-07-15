@@ -1,0 +1,53 @@
+[
+    {
+        "title":"Educational Technology and Mobile Learning",
+        "name":"Samsundram",
+        "date":"24 June,2021",
+        "location":"Deus, Paris",
+        "comments":24,
+        "blog":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit voluptatibus dolorem ipsum et, inventore fugiat veniam, fugit minus ut rem dolores soluta debitis saepe at? Dolorem dignissimos tempore quidem adipisci.Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae nulla in dolorem repellendus deserunt. Hic, pariatur! Soluta maiores recusandae accusantium blanditiis. Nemo, perferendis suscipit similique accusamus obcaecati expedita ad quas"  },
+    {
+        "title":"Making a Difference for Students With Special ",
+        "name":"Samy Takky",
+        "date":"28 May,2021",
+        "location":"Labin, Siamo",
+        "comments":11,
+        "blog":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit voluptatibus dolorem ipsum et, inventore fugiat veniam, fugit minus ut rem dolores soluta debitis saepe at? Dolorem dignissimos tempore quidem adipisci.Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae nulla in dolorem repellendus deserunt. Hic, pariatur! Soluta maiores recusandae accusantium blanditiis. Nemo, perferendis suscipit similique accusamus obcaecati expedita ad quas"   },
+    {
+        "title":"Educational Technology and Mobile Learning",
+        "name":"Samsundram",
+        "date":"24 Feb, 2020",
+        "location":"Piao, Madrina",
+        "comments":24,
+        "blog":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit voluptatibus dolorem ipsum et, inventore fugiat veniam, fugit minus ut rem dolores soluta debitis saepe at? Dolorem dignissimos tempore quidem adipisci.Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae nulla in dolorem repellendus deserunt. Hic, pariatur! Soluta maiores recusandae accusantium blanditiis. Nemo, perferendis suscipit similique accusamus obcaecati expedita ad quas"  },
+    {
+        "title":"The System Is Not Built for Teachers",
+        "name":"Madrina Labin",
+        "date":"24 June,2021",
+        "location":"Deus, Paris",
+        "comments":9
+,
+"blog":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit voluptatibus dolorem ipsum et, inventore fugiat veniam, fugit minus ut rem dolores soluta debitis saepe at? Dolorem dignissimos tempore quidem adipisci.Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae nulla in dolorem repellendus deserunt. Hic, pariatur! Soluta maiores recusandae accusantium blanditiis. Nemo, perferendis suscipit similique accusamus obcaecati expedita ad quas" },
+    {
+        "title":"Educational Technology and Mobile Learning",
+        "name":"Samsundram",
+        "date":"24 June,2021",
+        "location":"Samy, Takky",
+        "comments":28,
+        "blog":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit voluptatibus dolorem ipsum et, inventore fugiat veniam, fugit minus ut rem dolores soluta debitis saepe at? Dolorem dignissimos tempore quidem adipisci.Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae nulla in dolorem repellendus deserunt. Hic, pariatur! Soluta maiores recusandae accusantium blanditiis. Nemo, perferendis suscipit similique accusamus obcaecati expedita ad quas"  },
+    {
+        "title":"Making a Difference for Students With  Needs",
+        "name":"Piyano Pattrie",
+        "date":"11 May,2019",
+        "location":"Levasa, Northen",
+        "comments":11,
+        "blog":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit voluptatibus dolorem ipsum et, inventore fugiat veniam, fugit minus ut rem dolores soluta debitis saepe at? Dolorem dignissimos tempore quidem adipisci.Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae nulla in dolorem repellendus deserunt. Hic, pariatur! Soluta maiores recusandae accusantium blanditiis. Nemo, perferendis suscipit similique accusamus obcaecati expedita ad quas"  },
+    {
+        "title":"The System Is Not Built for Teachers",
+        "name":"Samy Takky",
+        "date":"28 May,2021",
+        "location":"Labin, Siamo",
+        "comments":28,
+        "blog":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit voluptatibus dolorem ipsum et, inventore fugiat veniam, fugit minus ut rem dolores soluta debitis saepe at? Dolorem dignissimos tempore quidem adipisci.Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae nulla in dolorem repellendus deserunt. Hic, pariatur! Soluta maiores recusandae accusantium blanditiis. Nemo, perferendis suscipit similique accusamus obcaecati expedita ad quas"       
+    }
+]

@@ -1,0 +1,23 @@
+.Div4Home{
+ width:100%;
+height:30rem;
+background-image: url("../../Images/pro-3.jpg");
+background-attachment: fixed;
+}
+
+.Div4Home>div{
+    z-index: 2;
+
+}
+.Div4Home>div .button *{
+    margin:1rem;
+}
+
+
+.Div4Home>div h2{
+text-align: center;
+font-family: "regular";
+color:white;
+font-size: 3rem;
+margin:2rem
+}

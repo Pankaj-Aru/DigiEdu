@@ -1,0 +1,136 @@
+
+
+
+
+/* sidebar  */
+
+
+
+
+
+.Sidebar {
+  position: relative;
+  top: -4rem;
+  left: 0rem;
+  height:100rem;
+  display: none;
+  overflow:scroll;
+
+  
+}
+
+.background {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background-color:rgb(9, 1, 17);
+  display: flex;
+  flex-direction: column;
+padding:20vw 0 2rem 5vw ;
+z-index: 1;
+overflow: scroll;
+}
+
+
+
+.Sidebar>Div:nth-child(1) img{
+  position: absolute;
+  top:6vw;
+  left:0;
+  object-fit:contain;
+  height:14vw;
+  width:100vw;
+  background-color: rgba(255,255,255,0.1);
+  backdrop-filter:blur(0.2rem);
+z-index: 2;
+position: fixed;
+ 
+box-shadow: 2rem 0rem 3rem black;
+  
+
+} 
+
+
+
+
+ .background > div {
+ 
+  height:auto;
+  width: 60vw;
+  line-height:4vw;
+  font-family: "medium";
+  font-size:2vw;
+  margin:1rem 1rem;
+
+} 
+.background>div:nth-child(1) {
+margin-bottom:20vw;
+
+}
+
+
+.background >div p {
+  color: rgba(99, 97, 97, 0.918);
+}
+
+.background >div h4 {
+  color: rgb(109, 107, 107);
+}
+
+.background >div h2{
+  color: var(--pure);
+  margin-bottom: 1vw;
+}
+
+.background .contact > div {
+  display: flex;
+} 
+.background .data h1 {
+  margin-bottom: 2vw;
+}
+
+.nav > a {
+  width: 80vw;
+  color: rgb(224, 221, 221);
+  font-size: 2.2vw;
+  display: flex;
+  align-items: center;
+  height: 7rem;
+  font-family: "regular";
+  transition: 0.2s;
+  outline: none;
+  text-decoration: none;
+}
+
+
+
+.nav .active{
+  color:orangered;
+}
+
+.background >Div img {
+    margin: 0 1rem;
+    width: 3rem;
+}
+
+.background hr {
+  margin: 0vw auto 5vw 5vw;
+  width: 50vw;
+}
+
+.nav a:hover {
+  border-radius: 1vw;
+  border:1px solid red
+
+}
+
+
+
+
+@media (max-width: 992px) {
+    
+  .Sidebar{
+      
+     display: block;
+  }
+}

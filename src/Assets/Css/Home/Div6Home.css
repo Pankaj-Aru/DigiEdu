@@ -1,0 +1,11 @@
+.Div6Home{
+    
+background-color:var(--pure)
+    
+}
+
+.Div6Home>div iframe{
+    height:25rem;
+    width: 50rem;
+    background-color: black;
+}

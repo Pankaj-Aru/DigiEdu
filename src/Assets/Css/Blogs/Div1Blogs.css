@@ -1,0 +1,107 @@
+.Div1Blogs{
+    background-color: var(--pure);
+    padding:4rem 0;
+    
+}
+
+.Div1Blogs .cards{
+    padding:2rem 0;
+    flex-wrap: wrap;
+
+}
+
+
+.Div1Blogs .singleCard{
+    width: 30rem;
+    height:40rem;
+    overflow: hidden;
+    position: relative;
+    background-color: rgba(240, 248, 255, 0.027);
+border-radius:1rem;
+box-shadow:0rem 0rem  1rem gray;
+margin:1rem;
+    
+
+}
+
+.Div1Blogs .singleCard img{
+height:40rem;
+object-fit: contain;
+}
+
+.Div1Blogs .singleCard>div{
+    background-color: rgb(240 248 255 / 44%);
+position: absolute;
+top:10rem;
+margin:0 1rem;
+padding: 1rem;
+border-radius: 1rem;
+box-shadow: 0rem 0rem  1rem gray;
+height: 14rem;
+overflow: hidden;
+transition:all 0.5s ease-in-out;
+}
+
+.Div1Blogs .singleCard>div.details{
+position: absolute;
+top:1rem;
+height:35rem;
+
+
+}
+
+.Div1Blogs .singleCard>div>div>div img{
+    height:2rem;
+    width:2rem;
+}
+
+.Div1Blogs .singleCard>div  p{
+    font-family: "semibold";
+    margin: 1rem 0;
+    font-size: 1.5rem;
+    line-height: 2rem;
+        overflow: scroll;
+    height: 20rem;
+    scrollbar-width: none;
+
+
+}
+.Div1Blogs .singleCard>div  p::-webkit-scrollbar{
+    display: none;
+}
+.Div1Blogs .singleCard>div>div>div{
+  display:flex;
+  align-items: center;
+}
+
+.Div1Blogs .singleCard input{
+    height: 6rem;
+    width:6rem;
+    position: absolute;
+    top:6rem;
+    right:2rem;
+    background-color:rgba(255, 255, 255, 0.288);
+    border-radius: 3rem;
+    box-shadow: 0rem 0rem 2rem gray;
+    transition:all 0.5s ease-in-out;
+    
+}
+
+
+.Div1Blogs .singleCard>div:hover {
+    position: absolute;
+top:1rem;
+transition:all 0.5s ease-in-out;
+height:35rem;
+}
+.Div1Blogs .singleCard>div:hover input{ 
+    transform: rotate(90deg);
+
+}
+
+
+
+.Div1Blogs .singleCard input.details{
+    transform: rotate(90deg);
+
+}

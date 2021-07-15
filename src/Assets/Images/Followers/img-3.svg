@@ -1,0 +1,19 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg">
+
+ <title/>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <polyline stroke-width="6px" stroke-miterlimit="10" stroke="#f94807" fill="none" id="svg_1" points="101.07 68.4 101.07 108.9 26.93 108.9 26.93 68.4" class="cls-1"/>
+  <rect fill="#f49535" stroke-width="6px" stroke-miterlimit="10" stroke="#f94807" id="svg_2" y="77.18" x="39.09" width="20.69" height="31.72" class="cls-2"/>
+  <rect fill="#f49535" stroke-width="6px" stroke-miterlimit="10" stroke="#f94807" id="svg_3" y="78.31" x="70.4" width="20.69" height="20.69" class="cls-2"/>
+  <path stroke-width="6px" stroke-miterlimit="10" stroke="#f94807" fill="none" id="svg_4" d="m20.88,48.16l21.56,0l0,10.78a10.78,10.78 0 0 1 -21.56,0l0,-10.78z" class="cls-1"/>
+  <path stroke-width="6px" stroke-miterlimit="10" stroke="#f94807" fill="none" id="svg_5" d="m42.44,48.16l21.56,0l0,10.78a10.78,10.78 0 0 1 -21.56,0l0,-10.78z" class="cls-1"/>
+  <path stroke-width="6px" stroke-miterlimit="10" stroke="#f94807" fill="none" id="svg_6" d="m64,48.16l21.59,0l0,10.78a10.78,10.78 0 0 1 -21.56,0l-0.03,-10.78z" class="cls-1"/>
+  <path stroke-width="6px" stroke-miterlimit="10" stroke="#f94807" fill="none" id="svg_7" d="m85.59,48.16l21.56,0l0,10.78a10.78,10.78 0 0 1 -21.56,0l0,-10.78z" class="cls-1"/>
+  <rect stroke-width="6px" stroke-miterlimit="10" stroke="#f94807" fill="none" id="svg_8" y="25.65" x="20.88" width="86.24" height="22.51" class="cls-1"/>
+ </g>
+</svg>

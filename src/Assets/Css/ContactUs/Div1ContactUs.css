@@ -1,0 +1,41 @@
+.Div1ContactUs{
+    background-color: var(--light);
+    padding:4rem 0;
+}
+
+.Div1ContactUs>div>div>div:nth-child(1){
+    background-color:orangered;
+  height:4rem;
+  width:4rem;
+  border-radius: 2rem;
+font-family: "medium";
+margin:1.5rem;
+}
+
+.Div1ContactUs>div>div>div:nth-child(1) img{
+    object-fit: cover;
+    height:4rem;
+    width:4rem;
+}
+
+.Div1ContactUs>div>div>div:nth-child(2){
+display:flex;
+flex-direction: column;
+justify-content: center;
+}
+.Div1ContactUs>div .cards{
+    font-family: "semiBold"; 
+    width:30rem;
+}
+
+
+.Div1ContactUs>div>div>div:nth-child(2) h3{
+    font-family: "regularNum";
+}
+
+
+.Div1ContactUs p{
+    font-size: 1.5rem;
+    line-height: 2rem;
+    margin: 2rem 0;
+}

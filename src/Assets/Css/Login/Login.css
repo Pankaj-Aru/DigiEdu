@@ -1,0 +1,9 @@
+.login{
+    background-color: blueviolet;
+    padding:4rem 2rem;
+}
+
+.login .input{
+    display: flex;
+    flex-direction: column;
+}

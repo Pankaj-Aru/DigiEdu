@@ -1,0 +1,65 @@
+.Div1Courses{
+    background-color: var(--pure);
+  padding-top: 8rem;
+}
+
+.Div1Courses>div .cards{
+    flex-wrap: wrap ;
+    padding:3rem 0;
+}
+
+.Div1Courses>div .cards .singleCard{
+    width:20rem;
+    height:25rem;
+background-color: orangered;
+position: relative;
+border-radius: .5rem;
+margin:2rem 3rem ;
+overflow-y: hidden;
+}
+
+
+.Div1Courses>div .cards .singleCard img{
+    width:20rem;
+    height:25rem;
+    object-fit: cover;
+    border-radius: 0.5rem;
+ filter: brightness(0.6);
+
+}
+
+.Div1Courses>div .singleCard .data{
+position:absolute;
+left:0;
+bottom:-13rem; 
+background-color: var(--light);
+padding:1rem 1rem;
+font-family: "regularNum";
+transition: 0.5s;
+}
+.Div1Courses>div .singleCard:hover .data{
+    position:absolute;
+left:0;
+bottom:0rem; }
+.Div1Courses>div .singleCard .data h2{
+    margin:1rem 0;
+    font-family: "medium";
+}
+
+.Div1Courses>div .singleCard .data h4{
+    color: black;
+    font-size:1.5rem;    
+}
+
+
+.Div1Courses>div .singleCard .data h5{
+    font-size: 1.1rem;
+    margin-right:1rem;
+}
+
+.Div1Courses>div .singleCard .data p{
+    line-height: 1.5rem;
+    font-family: "semibold";
+    color:rgb(107, 105, 105) ;
+    margin-top:1.2rem;
+}
