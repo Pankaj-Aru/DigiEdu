@@ -73,7 +73,7 @@ export default function Div1Home() {
             <div className="prod-img ">
               <img src={pic3} alt="" />
               <div className="Div1-card">
-                <h2>Educating Everyone is Our Goal</h2>
+                <h2>Solid hai bhai Everyone is Our Goal</h2>
                 <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Reprehenderit eos autem veniam. Ea quis, asperiores obcaecati
