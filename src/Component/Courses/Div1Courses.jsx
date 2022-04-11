@@ -4,17 +4,10 @@ import "../../Assets/Css/Courses/Div1Courses.css";
 import "../../Assets/Css/Common.css";
 import data from "../../Assets/Data/HomeSlider.json";
 import Img1 from "../../Assets/Images/Courses/img-1.jpg"
-import Img2 from "../../Assets/Images/Courses/img-2.jpg"
-import Img3 from "../../Assets/Images/Courses/img-3.jpg"
-import Img4 from "../../Assets/Images/Courses/img-4.jpg"
-import Img5 from "../../Assets/Images/Courses/img-5.jpg"
-import Img6 from "../../Assets/Images/Courses/img-6.jpg"
-import Img7 from "../../Assets/Images/Courses/img-7.jpg"
-import Img8 from "../../Assets/Images/Courses/img-8.jpg"
-import Img0 from "../../Assets/Images/Courses/img-0.jpg"
+
 
 export default function Div1Courses() {
-  const Images=[Img0,Img1,Img2,Img3,Img4,Img5,Img6,Img7,Img8]
+  const Images=[Img1,Img1,Img1,Img1,Img1,Img1,Img1,Img1,Img1]
 
   return (
     <div className="Div1Courses">
