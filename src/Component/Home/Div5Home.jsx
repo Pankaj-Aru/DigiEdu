@@ -3,13 +3,11 @@ import data from "../../Assets/Data/HomeSlider.json";
 
 import "../../Assets/Css/Home/Div5Home.css";
 import Img1 from "../../Assets/Images/Followers/img-1.svg"
-import Img2 from "../../Assets/Images/Followers/img-2.svg"
-import Img3 from "../../Assets/Images/Followers/img-3.svg"
-import Img0 from "../../Assets/Images/Followers/img-0.svg"
+
 
 export default function Div5Home() {
 
-const Image=[Img0,Img1,Img2,Img3]
+const Image=[Img1,Img1,Img1,Img1]
 
   
   return (
