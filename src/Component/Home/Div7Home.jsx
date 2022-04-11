@@ -2,15 +2,15 @@ import React from "react";
 import Heading from "../Heading";
 import "../../Assets/Css/Home/Div7Home.css";
 import data from "../../Assets/Data/HomeSlider.json";
-import Img0 from "../../Assets/Images/Blog/pro-0.jpg"
+
 import Img1 from "../../Assets/Images/Blog/pro-1.jpg"
-import Img2 from "../../Assets/Images/Blog/pro-2.jpg"
+
 import Prof from "../../Assets/Images/profile/Prof.png"
 
 
 
 export default function Div7Home() {
-  const Image = [Img0,Img1,Img2]
+  const Image = [Img1,Img1,Img1]
   return (
     <div className="Div7Home">
       <div className="container">
