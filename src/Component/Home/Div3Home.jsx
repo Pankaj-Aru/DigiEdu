@@ -1,7 +1,7 @@
 import React from "react";
 import Button from "../Buttons"
 import Heading from "../Heading.jsx"
-import Img1 from "../../Assets/Images/Courses/img-1.jpg"
+
 
 import Prof from "../../Assets/Images/profile/Prof.png"
 
@@ -10,7 +10,7 @@ import data from "../../Assets/Data/HomeSlider.json";
 
 export default function Div3Home() {
 
-const Image=[Img1,Img1,Img1,Img1,Img1,Img1,Img1,Img1,Img1]
+
 
   return (
     
@@ -24,7 +24,7 @@ const Image=[Img1,Img1,Img1,Img1,Img1,Img1,Img1,Img1,Img1]
             return (
               
                 <div key={index} className="singleCards">
-                  <img src={Image[index]} alt="Course img" />
+                  <img src="https://picsum.photos/id/180/600/200" alt="Course img" />
                   <div>
                     <h5>{item.online} Online Courses </h5>
                     <h2>{item.Course}</h2>

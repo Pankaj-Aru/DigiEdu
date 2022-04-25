@@ -7,11 +7,11 @@ import profile from "../../Assets/Images/icons/Profile.svg";
 import comments from "../../Assets/Images/icons/comments.svg";
 import location from "../../Assets/Images/icons/location.svg";
 import arrow from "../../Assets/Images/icons/arrow.svg";
-import Img1 from "../../Assets/Images/Courses/img-1.jpg";
+
 
 
 export default function Div1Blogs() {
-  const Image = [Img1, Img1, Img1, Img1, Img1, Img1, Img1, Img1, Img1];
+
 
   return (
     <div className="Div1Blogs">
@@ -21,7 +21,7 @@ export default function Div1Blogs() {
           {data.map((item, index) => {
             return(
             <div key={index} className="singleCard">
-              <img src={Image[index]} alt="" />{" "}
+              <img src="https://picsum.photos/id/189/400/500" alt="" />{" "}
               <div className="card-details">
                 <h1>{item.title}</h1>
                 <div>

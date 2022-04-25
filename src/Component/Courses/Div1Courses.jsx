@@ -3,11 +3,11 @@ import Heading from "../../Component/Heading.jsx";
 import "../../Assets/Css/Courses/Div1Courses.css";
 import "../../Assets/Css/Common.css";
 import data from "../../Assets/Data/HomeSlider.json";
-import Img1 from "../../Assets/Images/Courses/img-1.jpg"
+
 
 
 export default function Div1Courses() {
-  const Images=[Img1,Img1,Img1,Img1,Img1,Img1,Img1,Img1,Img1]
+ 
 
   return (
     <div className="Div1Courses">
@@ -18,7 +18,7 @@ export default function Div1Courses() {
             
             return (
               <div key={index} className="singleCard">
-                <img src={Images[index]} alt="" />
+                <img src="https://picsum.photos/id/188/20/20" alt="" />
                 <div className="data">
                   <h4>{item.price}</h4>
                   <h2>{item.Course}</h2>

@@ -1,7 +1,7 @@
 import React from "react";
 import Buttons from "../Buttons";
 import "../../Assets/Css/Home/Div1Home.css";
-import pic1 from "../../Assets/Images/products/pro-1.jpg"
+// import pic1 from "../../Assets/Images/products/pro-1.jpg"
 
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -33,7 +33,8 @@ export default function Div1Home() {
         <Slider {...settings} className="slider">
           <div className="food-card">
             <div className="prod-img ">
-              <img src={pic1} alt="" />
+            <img src="https://picsum.photos/id/1/600/400
+" alt="" />
               <div className="Div1-card">
                 <h2>A Great Place For Learning</h2>
                 <p>
@@ -52,7 +53,8 @@ export default function Div1Home() {
           </div>{" "}
           <div className="food-card">
             <div className="prod-img ">
-              <img src={pic1} alt="" />
+              <img src="https://picsum.photos/id/16/600/400
+" alt="" />
               <div className="Div1-card">
                 <h2>The Great Place For Learning</h2>
                 <p>
@@ -70,7 +72,8 @@ export default function Div1Home() {
           </div>
           <div className="food-card">
             <div className="prod-img ">
-              <img src={pic1} alt="" />
+            <img src="https://picsum.photos/id/12/600/400
+" alt="" />
               <div className="Div1-card">
                 <h2>Learn and Earn , Make futur bright</h2>
                 <p>
